@@ -1,0 +1,12 @@
+Function: 4, Prompt: Give advice on: i am facing issues while running python code in cli, Feedback: yes
+Function: 1, Prompt: Answer this question: what is the capital of japan?, Feedback: yes
+
+[Function: 1]
+Prompt: Answer in one word only: what is the capital of Japan?
+Feedback: yes
+----------------------------------------
+
+[Function: 2]
+Prompt: Please summarize this text: Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are designed to think and learn. These systems can perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. AI is categorized into narrow AI, which is designed for specific tasks, and general AI, which has the potential to perform any intellectual task that a human can. While AI presents incredible opportunities in healthcare, finance, education, and transportation, it also raises ethical concerns related to privacy, job displacement, and accountability. As AI continues to evolve, it is crucial to strike a balance between innovation and responsible use.
+Feedback: 
+----------------------------------------
